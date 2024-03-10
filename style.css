@@ -26,8 +26,8 @@ p{
 section {
     position: relative;
     margin-top: 150px;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: auto;
+    margin-right: auto;
     width: 550px;
     padding: 30px; 
     background-color: white; 
